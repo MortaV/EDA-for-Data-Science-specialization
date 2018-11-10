@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541802354105.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9E37E918",
+    "lastKnownWriteTime" : 1541846023,
+    "last_content_update" : 1541846023052,
+    "path" : "C:/Users/PC/Desktop/R course/Course 4/plot3.R",
+    "project_path" : "plot3.R",
+    "properties" : {
+        "cursorPosition" : "92,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
